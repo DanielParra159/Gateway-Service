@@ -4,7 +4,7 @@ logging:
   level:
     com.netflix: WARN
     org.springframework.web: WARN
-    com.danielparra: DEBUG
+    com.danielparra.gatewayservice: DEBUG
 eureka:
   instance:
     preferIpAddress: true
